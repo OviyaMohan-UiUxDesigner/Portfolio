@@ -5,17 +5,17 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Oviya Portfolio</title>
+  <title>Nanda Portfolio</title>
 
   <!--
     - favicon
   -->
-  <link rel="shortcut icon" href="./images/logo.ico" type="image/x-icon">
+  <link rel="shortcut icon" href="./assets/images/logo.ico" type="image/x-icon">
 
   <!--
     - custom css link
   -->
-  <link rel="stylesheet" href="./css/style.css">
+  <link rel="stylesheet" href="./assets/css/style.css">
   <!--
     - google font link
   -->
@@ -37,13 +37,13 @@
       - #SIDEBAR
     -->
 
-    <aside class="sidebar" data-sidebar="">
+    <aside class="sidebar" data-sidebar>
 
       <div class="sidebar-info">
 
         <figure class="avatar-box">
           <img src="./assets/images/my-avatar.png" alt="Om Kharche" width="80">
-          <img src="./assets/images/waving-hand.gif" class="handwave zoom-effect" id="controlledGif">
+          <img src="./assets/images/waving-hand.gif" class="handwave" id="controlledGif">
         </figure>
 
 
@@ -53,10 +53,10 @@
           <p class="title">UI/UX Developer</p>
         </div>
 
-        <button class="info_more-btn" data-sidebar-btn="">
+        <button class="info_more-btn" data-sidebar-btn>
           <span>Show Contacts</span>
 
-          <ion-icon name="chevron-down" role="img" class="md hydrated" aria-label="chevron down"></ion-icon>
+          <ion-icon name="chevron-down"></ion-icon>
         </button>
 
       </div>
@@ -137,13 +137,13 @@
 
           <li class="social-item">
             <a href="https://www.linkedin.com/in/kasetty-nanda-kumar/" class="social-link">
-              <ion-icon name="logo-linkedin" role="img" class="md hydrated" aria-label="logo linkedin"></ion-icon>
+              <ion-icon name="logo-linkedin"></ion-icon>
             </a>
           </li>
 
           <li class="social-item">
             <a href="https://www.instagram.com/nanda_kumar_kasetty/" class="social-link">
-              <ion-icon name="logo-instagram" role="img" class="md hydrated" aria-label="logo instagram"></ion-icon>
+              <ion-icon name="logo-instagram"></ion-icon>
             </a>
           </li>
 
@@ -172,15 +172,15 @@
         <ul class="navbar-list">
 
           <li class="navbar-item">
-            <button class="navbar-link  active" data-nav-link="">About</button>
+            <button class="navbar-link  active" data-nav-link>About</button>
           </li>
 
           <li class="navbar-item">
-            <button class="navbar-link" data-nav-link="">Background</button>
+            <button class="navbar-link" data-nav-link>Background</button>
           </li>
 
           <li class="navbar-item">
-            <button class="navbar-link" data-nav-link="">Projects</button>
+            <button class="navbar-link" data-nav-link>Projects</button>
           </li>
 
           <!-- <li class="navbar-item">
@@ -316,15 +316,16 @@
           <ul class="testimonials-list has-scrollbar">
 
             <li class="testimonials-item">
-              <div class="content-card" data-testimonials-item="">
+              <div class="content-card" data-testimonials-item>
 
                 <figure class="testimonials-avatar-box">
-                  <img src="./assets/images/thumb-up-dynamic-color.png" alt="thumb-up" width="40" data-testimonials-avatar="">
+                  <img src="./assets/images/thumb-up-dynamic-color.png" alt="thumb-up" width="40"
+                    data-testimonials-avatar>
                 </figure>
 
-                <h4 class="h4 testimonials-item-title" data-testimonials-title=""></h4>
+                <h4 class="h4 testimonials-item-title" data-testimonials-title></h4>
 
-                <div class="testimonials-text" data-testimonials-text="">
+                <div class="testimonials-text" data-testimonials-text>
                   <p>
                     I prioritize client collaboration by fostering open and transparent communication throughout the
                     project. By actively engaging in discussions and gathering feedback, I ensure the final product
@@ -337,15 +338,16 @@
             </li>
 
             <li class="testimonials-item">
-              <div class="content-card" data-testimonials-item="">
+              <div class="content-card" data-testimonials-item>
 
                 <figure class="testimonials-avatar-box">
-                  <img src="./assets/images/clock-dynamic-color.png" alt="Jessica miller" width="40" data-testimonials-avatar="">
+                  <img src="./assets/images/clock-dynamic-color.png" alt="Jessica miller" width="40"
+                    data-testimonials-avatar>
                 </figure>
 
-                <h4 class="h4 testimonials-item-title" data-testimonials-title=""></h4>
+                <h4 class="h4 testimonials-item-title" data-testimonials-title></h4>
 
-                <div class="testimonials-text" data-testimonials-text="">
+                <div class="testimonials-text" data-testimonials-text>
                   <p>
                     I’m very flexible with time zone communications, ensuring that I'm available to collaborate with
                     clients regardless of their location. This flexibility allows for seamless coordination and timely
@@ -357,15 +359,16 @@
             </li>
 
             <li class="testimonials-item">
-              <div class="content-card" data-testimonials-item="">
+              <div class="content-card" data-testimonials-item>
 
                 <figure class="testimonials-avatar-box">
-                  <img src="./assets/images/computer-dynamic-color.png" alt="Emily evans" width="40" data-testimonials-avatar="">
+                  <img src="./assets/images/computer-dynamic-color.png" alt="Emily evans" width="40"
+                    data-testimonials-avatar>
                 </figure>
 
-                <h4 class="h4 testimonials-item-title" data-testimonials-title=""></h4>
+                <h4 class="h4 testimonials-item-title" data-testimonials-title></h4>
 
-                <div class="testimonials-text" data-testimonials-text="">
+                <div class="testimonials-text" data-testimonials-text>
                   <p>
                     My tech stack includes HTML, CSS, SCSS, Bootstrap, Material UI, JavaScript, React JS, Figma, and Adobe XD.
                   </p>
@@ -385,19 +388,19 @@
           - testimonials modal
         -->
 
-        <div class="modal-container" data-modal-container="">
+        <div class="modal-container" data-modal-container>
 
-          <div class="overlay" data-overlay=""></div>
+          <div class="overlay" data-overlay></div>
 
           <section class="testimonials-modal">
 
-            <button class="modal-close-btn" data-modal-close-btn="">
-              <ion-icon name="close-outline" role="img" class="md hydrated" aria-label="close outline"></ion-icon>
+            <button class="modal-close-btn" data-modal-close-btn>
+              <ion-icon name="close-outline"></ion-icon>
             </button>
 
             <div class="modal-img-wrapper">
               <figure class="modal-avatar-box">
-                <img src="./assets/images/avatar-1.png" alt="Daniel lewis" width="80" data-modal-img="">
+                <img src="./assets/images/avatar-1.png" alt="Daniel lewis" width="80" data-modal-img>
               </figure>
 
               <img src="./assets/images/icon-quote.svg" alt="quote icon">
@@ -405,9 +408,9 @@
 
             <div class="modal-content">
 
-              <h4 class="h3 modal-title" data-modal-title="">Daniel lewis</h4>
+              <h4 class="h3 modal-title" data-modal-title>Daniel lewis</h4>
 
-              <div data-modal-text="">
+              <div data-modal-text>
                 <p>
                   Richard was hired to create a corporate identity. We were very pleased with the work done. She has a
                   lot of experience
@@ -490,7 +493,7 @@
 
           <div class="title-wrapper">
             <div class="icon-box">
-              <ion-icon name="book-outline" role="img" class="md hydrated" aria-label="book outline"></ion-icon>
+              <ion-icon name="book-outline"></ion-icon>
             </div>
 
             <h3 class="h3">Education</h3>
@@ -542,7 +545,7 @@
 
           <div class="title-wrapper">
             <div class="icon-box">
-              <ion-icon name="book-outline" role="img" class="md hydrated" aria-label="book outline"></ion-icon>
+              <ion-icon name="book-outline"></ion-icon>
             </div>
 
             <h3 class="h3">Experience</h3>
@@ -651,31 +654,31 @@
           <ul class="filter-list">
 
             <li class="filter-item">
-              <button class="active" data-filter-btn="">All</button>
+              <button class="active" data-filter-btn>All</button>
             </li>
 
             <li class="filter-item">
-              <button data-filter-btn="">Web design</button>
+              <button data-filter-btn>Web design</button>
             </li>
 
             <li class="filter-item">
-              <button data-filter-btn="">Applications</button>
+              <button data-filter-btn>Applications</button>
             </li>
 
             <li class="filter-item">
-              <button data-filter-btn="">Web development</button>
+              <button data-filter-btn>Web development</button>
             </li>
 
           </ul>
 
           <div class="filter-select-box">
 
-            <button class="filter-select" data-select="">
+            <button class="filter-select" data-select>
 
-              <div class="select-value" data-selecct-value="">Select category</div>
+              <div class="select-value" data-selecct-value>Select category</div>
 
               <div class="select-icon">
-                <ion-icon name="chevron-down" role="img" class="md hydrated" aria-label="chevron down"></ion-icon>
+                <ion-icon name="chevron-down"></ion-icon>
               </div>
 
             </button>
@@ -683,19 +686,19 @@
             <ul class="select-list">
 
               <li class="select-item">
-                <button data-select-item="">All</button>
+                <button data-select-item>All</button>
               </li>
 
               <li class="select-item">
-                <button data-select-item="">Web design</button>
+                <button data-select-item>Web design</button>
               </li>
 
               <li class="select-item">
-                <button data-select-item="">Applications</button>
+                <button data-select-item>Applications</button>
               </li>
 
               <li class="select-item">
-                <button data-select-item="">Web development</button>
+                <button data-select-item>Web development</button>
               </li>
 
             </ul>
@@ -704,12 +707,12 @@
 
           <ul class="project-list">
 
-            <li class="project-item  active" data-filter-item="" data-category="web design">
-              <a href="https://www.figma.com/proto/EcuHy1Ah5RUJima5xOn8ef/Real-Estate-Website-UI-Template?node-id=203-8&amp;t=qFdzZv5yNb1yntps-1&amp;scaling=min-zoom&amp;content-scaling=fixed&amp;page-id=45%3A2&amp;starting-point-node-id=203%3A8">
+            <li class="project-item  active" data-filter-item data-category="web design">
+              <a href="https://www.figma.com/proto/EcuHy1Ah5RUJima5xOn8ef/Real-Estate-Website-UI-Template?node-id=203-8&t=qFdzZv5yNb1yntps-1&scaling=min-zoom&content-scaling=fixed&page-id=45%3A2&starting-point-node-id=203%3A8">
 
                 <figure class="project-img">
                   <div class="project-item-icon-box">
-                    <ion-icon name="eye-outline" role="img" class="md hydrated" aria-label="eye outline"></ion-icon>
+                    <ion-icon name="eye-outline"></ion-icon>
                   </div>
 
                   <img src="./assets/images/project-1.jpg" alt="realestate" loading="lazy">
@@ -722,12 +725,12 @@
               </a>
             </li>
 
-            <li class="project-item  active" data-filter-item="" data-category="web development">
+            <li class="project-item  active" data-filter-item data-category="web development">
               <a href="https://nandakumarroy.github.io/dash-board/">
 
                 <figure class="project-img">
                   <div class="project-item-icon-box">
-                    <ion-icon name="eye-outline" role="img" class="md hydrated" aria-label="eye outline"></ion-icon>
+                    <ion-icon name="eye-outline"></ion-icon>
                   </div>
 
                   <img src="./assets/images/project-2.png" alt="orizon" loading="lazy">
@@ -740,12 +743,12 @@
               </a>
             </li>
 
-            <li class="project-item  active" data-filter-item="" data-category="applications">
-              <a href="https://www.figma.com/proto/vHVD6rAKPEwTgL9WTbbV6t/E-com-Mobile-Application-Design?node-id=1-2069&amp;t=BIgTja64cHYnh6BA-1&amp;scaling=min-zoom&amp;content-scaling=fixed&amp;page-id=1%3A1364&amp;starting-point-node-id=1%3A2263&amp;show-proto-sidebar=1">
+            <li class="project-item  active" data-filter-item data-category="applications">
+              <a href="https://www.figma.com/proto/vHVD6rAKPEwTgL9WTbbV6t/E-com-Mobile-Application-Design?node-id=1-2069&t=BIgTja64cHYnh6BA-1&scaling=min-zoom&content-scaling=fixed&page-id=1%3A1364&starting-point-node-id=1%3A2263&show-proto-sidebar=1">
 
                 <figure class="project-img">
                   <div class="project-item-icon-box">
-                    <ion-icon name="eye-outline" role="img" class="md hydrated" aria-label="eye outline"></ion-icon>
+                    <ion-icon name="eye-outline"></ion-icon>
                   </div>
 
                   <img src="./assets/images/project-3.jpg" alt="fundo" loading="lazy">
@@ -1025,9 +1028,7 @@
     - ionicon link
   -->
   <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
-  <script nomodule="" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
-
-
+  <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
 
 
 

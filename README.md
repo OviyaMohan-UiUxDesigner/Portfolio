@@ -37,13 +37,13 @@
       - #SIDEBAR
     -->
 
-    <aside class="sidebar" data-sidebar>
+    <aside class="sidebar" data-sidebar="">
 
       <div class="sidebar-info">
 
         <figure class="avatar-box">
-          <img src="./images/my-avatar.png" alt="Om Kharche" width="80">
-          <img src="./images/waving-hand.gif" class="handwave" id="controlledGif">
+          <img src="./assets/images/my-avatar.png" alt="Om Kharche" width="80">
+          <img src="./assets/images/waving-hand.gif" class="handwave zoom-effect" id="controlledGif">
         </figure>
 
 
@@ -53,10 +53,10 @@
           <p class="title">UI/UX Developer</p>
         </div>
 
-        <button class="info_more-btn" data-sidebar-btn>
+        <button class="info_more-btn" data-sidebar-btn="">
           <span>Show Contacts</span>
 
-          <ion-icon name="chevron-down"></ion-icon>
+          <ion-icon name="chevron-down" role="img" class="md hydrated" aria-label="chevron down"></ion-icon>
         </button>
 
       </div>
@@ -70,7 +70,7 @@
           <li class="contact-item">
 
             <div class="icon-box">
-              <img src="./images/mail.gif" width="30px">
+              <img src="./assets/images/mail.gif" width="30px">
             </div>
 
             <div class="contact-info">
@@ -84,7 +84,7 @@
           <li class="contact-item">
 
             <div class="icon-box">
-              <img src="./images/mob.gif" width="25px">
+              <img src="./assets/images/mob.gif" width="25px">
             </div>
 
             <div class="contact-info">
@@ -112,7 +112,7 @@
           <li class="contact-item">
 
             <div class="icon-box">
-              <img src="./images/loc.gif" width="30px">
+              <img src="./assets/images/loc.gif" width="30px">
             </div>
 
             <div class="contact-info">
@@ -137,13 +137,13 @@
 
           <li class="social-item">
             <a href="https://www.linkedin.com/in/kasetty-nanda-kumar/" class="social-link">
-              <ion-icon name="logo-linkedin"></ion-icon>
+              <ion-icon name="logo-linkedin" role="img" class="md hydrated" aria-label="logo linkedin"></ion-icon>
             </a>
           </li>
 
           <li class="social-item">
             <a href="https://www.instagram.com/nanda_kumar_kasetty/" class="social-link">
-              <ion-icon name="logo-instagram"></ion-icon>
+              <ion-icon name="logo-instagram" role="img" class="md hydrated" aria-label="logo instagram"></ion-icon>
             </a>
           </li>
 
@@ -172,15 +172,15 @@
         <ul class="navbar-list">
 
           <li class="navbar-item">
-            <button class="navbar-link  active" data-nav-link>About</button>
+            <button class="navbar-link  active" data-nav-link="">About</button>
           </li>
 
           <li class="navbar-item">
-            <button class="navbar-link" data-nav-link>Background</button>
+            <button class="navbar-link" data-nav-link="">Background</button>
           </li>
 
           <li class="navbar-item">
-            <button class="navbar-link" data-nav-link>Projects</button>
+            <button class="navbar-link" data-nav-link="">Projects</button>
           </li>
 
           <!-- <li class="navbar-item">
@@ -239,7 +239,7 @@
             <li class="service-item">
 
               <div class="service-icon-box">
-                <img src="./images/dev-gif.gif" alt="design icon" width="80">
+                <img src="./assets/images/dev-gif.gif" alt="design icon" width="80">
               </div>
 
               <div class="service-content-box">
@@ -255,7 +255,7 @@
             <li class="service-item">
 
               <div class="service-icon-box">
-                <img src="./images/design-gif.gif" alt="Web development icon" width="80">
+                <img src="./assets/images/design-gif.gif" alt="Web development icon" width="80">
               </div>
 
               <div class="service-content-box">
@@ -271,7 +271,7 @@
             <!-- <li class="service-item">
 
               <div class="service-icon-box">
-                <img src="./images/icon-app.svg" alt="mobile app icon" width="40">
+                <img src="./assets/images/icon-app.svg" alt="mobile app icon" width="40">
               </div>
 
               <div class="service-content-box">
@@ -287,7 +287,7 @@
             <li class="service-item">
 
               <div class="service-icon-box">
-                <img src="./images/icon-photo.svg" alt="camera icon" width="40">
+                <img src="./assets/images/icon-photo.svg" alt="camera icon" width="40">
               </div>
 
               <div class="service-content-box">
@@ -316,16 +316,15 @@
           <ul class="testimonials-list has-scrollbar">
 
             <li class="testimonials-item">
-              <div class="content-card" data-testimonials-item>
+              <div class="content-card" data-testimonials-item="">
 
                 <figure class="testimonials-avatar-box">
-                  <img src="./images/thumb-up-dynamic-color.png" alt="thumb-up" width="40"
-                    data-testimonials-avatar>
+                  <img src="./assets/images/thumb-up-dynamic-color.png" alt="thumb-up" width="40" data-testimonials-avatar="">
                 </figure>
 
-                <h4 class="h4 testimonials-item-title" data-testimonials-title></h4>
+                <h4 class="h4 testimonials-item-title" data-testimonials-title=""></h4>
 
-                <div class="testimonials-text" data-testimonials-text>
+                <div class="testimonials-text" data-testimonials-text="">
                   <p>
                     I prioritize client collaboration by fostering open and transparent communication throughout the
                     project. By actively engaging in discussions and gathering feedback, I ensure the final product
@@ -338,16 +337,15 @@
             </li>
 
             <li class="testimonials-item">
-              <div class="content-card" data-testimonials-item>
+              <div class="content-card" data-testimonials-item="">
 
                 <figure class="testimonials-avatar-box">
-                  <img src="./images/clock-dynamic-color.png" alt="Jessica miller" width="40"
-                    data-testimonials-avatar>
+                  <img src="./assets/images/clock-dynamic-color.png" alt="Jessica miller" width="40" data-testimonials-avatar="">
                 </figure>
 
-                <h4 class="h4 testimonials-item-title" data-testimonials-title></h4>
+                <h4 class="h4 testimonials-item-title" data-testimonials-title=""></h4>
 
-                <div class="testimonials-text" data-testimonials-text>
+                <div class="testimonials-text" data-testimonials-text="">
                   <p>
                     I’m very flexible with time zone communications, ensuring that I'm available to collaborate with
                     clients regardless of their location. This flexibility allows for seamless coordination and timely
@@ -359,16 +357,15 @@
             </li>
 
             <li class="testimonials-item">
-              <div class="content-card" data-testimonials-item>
+              <div class="content-card" data-testimonials-item="">
 
                 <figure class="testimonials-avatar-box">
-                  <img src="./images/computer-dynamic-color.png" alt="Emily evans" width="40"
-                    data-testimonials-avatar>
+                  <img src="./assets/images/computer-dynamic-color.png" alt="Emily evans" width="40" data-testimonials-avatar="">
                 </figure>
 
-                <h4 class="h4 testimonials-item-title" data-testimonials-title></h4>
+                <h4 class="h4 testimonials-item-title" data-testimonials-title=""></h4>
 
-                <div class="testimonials-text" data-testimonials-text>
+                <div class="testimonials-text" data-testimonials-text="">
                   <p>
                     My tech stack includes HTML, CSS, SCSS, Bootstrap, Material UI, JavaScript, React JS, Figma, and Adobe XD.
                   </p>
@@ -388,29 +385,29 @@
           - testimonials modal
         -->
 
-        <div class="modal-container" data-modal-container>
+        <div class="modal-container" data-modal-container="">
 
-          <div class="overlay" data-overlay></div>
+          <div class="overlay" data-overlay=""></div>
 
           <section class="testimonials-modal">
 
-            <button class="modal-close-btn" data-modal-close-btn>
-              <ion-icon name="close-outline"></ion-icon>
+            <button class="modal-close-btn" data-modal-close-btn="">
+              <ion-icon name="close-outline" role="img" class="md hydrated" aria-label="close outline"></ion-icon>
             </button>
 
             <div class="modal-img-wrapper">
               <figure class="modal-avatar-box">
-                <img src="./images/avatar-1.png" alt="Daniel lewis" width="80" data-modal-img>
+                <img src="./assets/images/avatar-1.png" alt="Daniel lewis" width="80" data-modal-img="">
               </figure>
 
-              <img src="./images/icon-quote.svg" alt="quote icon">
+              <img src="./assets/images/icon-quote.svg" alt="quote icon">
             </div>
 
             <div class="modal-content">
 
-              <h4 class="h3 modal-title" data-modal-title>Daniel lewis</h4>
+              <h4 class="h3 modal-title" data-modal-title="">Daniel lewis</h4>
 
-              <div data-modal-text>
+              <div data-modal-text="">
                 <p>
                   Richard was hired to create a corporate identity. We were very pleased with the work done. She has a
                   lot of experience
@@ -439,31 +436,31 @@
 
             <li class="clients-item">
               <a href="#">
-                <img src="./images/phase1.png" alt="phase1">
+                <img src="./assets/images/phase1.png" alt="phase1">
               </a>
             </li>
 
             <li class="clients-item">
               <a href="#">
-                <img src="./images/phase2.png" alt="phase2">
+                <img src="./assets/images/phase2.png" alt="phase2">
               </a>
             </li>
 
             <li class="clients-item">
               <a href="#">
-                <img src="./images/phase3.png" alt="phase3">
+                <img src="./assets/images/phase3.png" alt="phase3">
               </a>
             </li>
 
             <li class="clients-item">
               <a href="#">
-                <img src="./images/phase4.png" alt="phase4">
+                <img src="./assets/images/phase4.png" alt="phase4">
               </a>
             </li>
 
             <li class="clients-item">
               <a href="#">
-                <img src="./images/phase5.png" alt="phase5">
+                <img src="./assets/images/phase5.png" alt="phase5">
               </a>
             </li>
 
@@ -493,7 +490,7 @@
 
           <div class="title-wrapper">
             <div class="icon-box">
-              <ion-icon name="book-outline"></ion-icon>
+              <ion-icon name="book-outline" role="img" class="md hydrated" aria-label="book outline"></ion-icon>
             </div>
 
             <h3 class="h3">Education</h3>
@@ -545,7 +542,7 @@
 
           <div class="title-wrapper">
             <div class="icon-box">
-              <ion-icon name="book-outline"></ion-icon>
+              <ion-icon name="book-outline" role="img" class="md hydrated" aria-label="book outline"></ion-icon>
             </div>
 
             <h3 class="h3">Experience</h3>
@@ -654,31 +651,31 @@
           <ul class="filter-list">
 
             <li class="filter-item">
-              <button class="active" data-filter-btn>All</button>
+              <button class="active" data-filter-btn="">All</button>
             </li>
 
             <li class="filter-item">
-              <button data-filter-btn>Web design</button>
+              <button data-filter-btn="">Web design</button>
             </li>
 
             <li class="filter-item">
-              <button data-filter-btn>Applications</button>
+              <button data-filter-btn="">Applications</button>
             </li>
 
             <li class="filter-item">
-              <button data-filter-btn>Web development</button>
+              <button data-filter-btn="">Web development</button>
             </li>
 
           </ul>
 
           <div class="filter-select-box">
 
-            <button class="filter-select" data-select>
+            <button class="filter-select" data-select="">
 
-              <div class="select-value" data-selecct-value>Select category</div>
+              <div class="select-value" data-selecct-value="">Select category</div>
 
               <div class="select-icon">
-                <ion-icon name="chevron-down"></ion-icon>
+                <ion-icon name="chevron-down" role="img" class="md hydrated" aria-label="chevron down"></ion-icon>
               </div>
 
             </button>
@@ -686,19 +683,19 @@
             <ul class="select-list">
 
               <li class="select-item">
-                <button data-select-item>All</button>
+                <button data-select-item="">All</button>
               </li>
 
               <li class="select-item">
-                <button data-select-item>Web design</button>
+                <button data-select-item="">Web design</button>
               </li>
 
               <li class="select-item">
-                <button data-select-item>Applications</button>
+                <button data-select-item="">Applications</button>
               </li>
 
               <li class="select-item">
-                <button data-select-item>Web development</button>
+                <button data-select-item="">Web development</button>
               </li>
 
             </ul>
@@ -707,15 +704,15 @@
 
           <ul class="project-list">
 
-            <li class="project-item  active" data-filter-item data-category="web design">
-              <a href="https://www.figma.com/proto/EcuHy1Ah5RUJima5xOn8ef/Real-Estate-Website-UI-Template?node-id=203-8&t=qFdzZv5yNb1yntps-1&scaling=min-zoom&content-scaling=fixed&page-id=45%3A2&starting-point-node-id=203%3A8">
+            <li class="project-item  active" data-filter-item="" data-category="web design">
+              <a href="https://www.figma.com/proto/EcuHy1Ah5RUJima5xOn8ef/Real-Estate-Website-UI-Template?node-id=203-8&amp;t=qFdzZv5yNb1yntps-1&amp;scaling=min-zoom&amp;content-scaling=fixed&amp;page-id=45%3A2&amp;starting-point-node-id=203%3A8">
 
                 <figure class="project-img">
                   <div class="project-item-icon-box">
-                    <ion-icon name="eye-outline"></ion-icon>
+                    <ion-icon name="eye-outline" role="img" class="md hydrated" aria-label="eye outline"></ion-icon>
                   </div>
 
-                  <img src="./images/project-1.jpg" alt="realestate" loading="lazy">
+                  <img src="./assets/images/project-1.jpg" alt="realestate" loading="lazy">
                 </figure>
 
                 <h3 class="project-title">Real-Estate-Website-UI-Template</h3>
@@ -725,15 +722,15 @@
               </a>
             </li>
 
-            <li class="project-item  active" data-filter-item data-category="web development">
+            <li class="project-item  active" data-filter-item="" data-category="web development">
               <a href="https://nandakumarroy.github.io/dash-board/">
 
                 <figure class="project-img">
                   <div class="project-item-icon-box">
-                    <ion-icon name="eye-outline"></ion-icon>
+                    <ion-icon name="eye-outline" role="img" class="md hydrated" aria-label="eye outline"></ion-icon>
                   </div>
 
-                  <img src="./images/project-2.png" alt="orizon" loading="lazy">
+                  <img src="./assets/images/project-2.png" alt="orizon" loading="lazy">
                 </figure>
 
                 <h3 class="project-title">React dash-board</h3>
@@ -743,15 +740,15 @@
               </a>
             </li>
 
-            <li class="project-item  active" data-filter-item data-category="applications">
-              <a href="https://www.figma.com/proto/vHVD6rAKPEwTgL9WTbbV6t/E-com-Mobile-Application-Design?node-id=1-2069&t=BIgTja64cHYnh6BA-1&scaling=min-zoom&content-scaling=fixed&page-id=1%3A1364&starting-point-node-id=1%3A2263&show-proto-sidebar=1">
+            <li class="project-item  active" data-filter-item="" data-category="applications">
+              <a href="https://www.figma.com/proto/vHVD6rAKPEwTgL9WTbbV6t/E-com-Mobile-Application-Design?node-id=1-2069&amp;t=BIgTja64cHYnh6BA-1&amp;scaling=min-zoom&amp;content-scaling=fixed&amp;page-id=1%3A1364&amp;starting-point-node-id=1%3A2263&amp;show-proto-sidebar=1">
 
                 <figure class="project-img">
                   <div class="project-item-icon-box">
-                    <ion-icon name="eye-outline"></ion-icon>
+                    <ion-icon name="eye-outline" role="img" class="md hydrated" aria-label="eye outline"></ion-icon>
                   </div>
 
-                  <img src="./images/project-3.jpg" alt="fundo" loading="lazy">
+                  <img src="./assets/images/project-3.jpg" alt="fundo" loading="lazy">
                 </figure>
 
                 <h3 class="project-title">E-Com Mobile App-UI-Template</h3>
@@ -791,7 +788,7 @@
               <a href="#">
 
                 <figure class="blog-banner-box">
-                  <img src="./images/blog-1.jpg" alt="Design conferences in 2022" loading="lazy">
+                  <img src="./assets/images/blog-1.jpg" alt="Design conferences in 2022" loading="lazy">
                 </figure>
 
                 <div class="blog-content">
@@ -819,7 +816,7 @@
               <a href="#">
 
                 <figure class="blog-banner-box">
-                  <img src="./images/blog-2.jpg" alt="Best fonts every designer" loading="lazy">
+                  <img src="./assets/images/blog-2.jpg" alt="Best fonts every designer" loading="lazy">
                 </figure>
 
                 <div class="blog-content">
@@ -847,7 +844,7 @@
               <a href="#">
 
                 <figure class="blog-banner-box">
-                  <img src="./images/blog-3.jpg" alt="Design digest #80" loading="lazy">
+                  <img src="./assets/images/blog-3.jpg" alt="Design digest #80" loading="lazy">
                 </figure>
 
                 <div class="blog-content">
@@ -875,7 +872,7 @@
               <a href="#">
 
                 <figure class="blog-banner-box">
-                  <img src="./images/blog-4.jpg" alt="UI interactions of the week" loading="lazy">
+                  <img src="./assets/images/blog-4.jpg" alt="UI interactions of the week" loading="lazy">
                 </figure>
 
                 <div class="blog-content">
@@ -903,7 +900,7 @@
               <a href="#">
 
                 <figure class="blog-banner-box">
-                  <img src="./images/blog-5.jpg" alt="The forgotten art of spacing" loading="lazy">
+                  <img src="./assets/images/blog-5.jpg" alt="The forgotten art of spacing" loading="lazy">
                 </figure>
 
                 <div class="blog-content">
@@ -931,7 +928,7 @@
               <a href="#">
 
                 <figure class="blog-banner-box">
-                  <img src="./images/blog-6.jpg" alt="Design digest #79" loading="lazy">
+                  <img src="./assets/images/blog-6.jpg" alt="Design digest #79" loading="lazy">
                 </figure>
 
                 <div class="blog-content">
@@ -1022,13 +1019,15 @@
   <!--
     - custom js link
   -->
-  <script src="./js/script.js"></script>
+  <script src="./assets/js/script.js"></script>
 
   <!--
     - ionicon link
   -->
   <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
-  <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+  <script nomodule="" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
+
+
 
 
 

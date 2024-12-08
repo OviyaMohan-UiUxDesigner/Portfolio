@@ -1340,7 +1340,10 @@
   
     .avatar-box { border-radius: 30px; }
   
-    .avatar-box img { width: 120px; }
+    .avatar-box img { 
+      width: 120px; 
+      border-radius: 25px;
+    }
   
     .info-content .name { margin-bottom: 15px; }
   
@@ -1922,7 +1925,11 @@
     left: -10px;
   }
    }
-  
+.subheading
+{
+  color: #ceb15a;
+  padding-bottom: 16px;
+}
    
   
   

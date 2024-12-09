@@ -843,7 +843,7 @@ Collaborated with cross-functional teams to ensure seamless implementation of de
             </li>
 
             <li class="project-item  active" data-filter-item data-category="web design">
-              <a href="./assets/Jaguar.html">
+              <a href=".assets/Jaguar.html">
 
                 <figure class="project-img">
                   <div class="project-item-icon-box">
@@ -861,7 +861,7 @@ Collaborated with cross-functional teams to ensure seamless implementation of de
             </li>
             
             <li class="project-item  active" data-filter-item data-category="web design">
-              <a href="./assets/Fittrack.html">
+              <a href=".assets/Fittrack.html">
 
                 <figure class="project-img">
                   <div class="project-item-icon-box">

@@ -807,7 +807,7 @@ Collaborated with cross-functional teams to ensure seamless implementation of de
           <ul class="project-list">
 
             <li class="project-item  active" data-filter-item data-category="web design">
-              <a href="Travelease.html">
+              <a href="./assets/Travelease.html">
 
                 <figure class="project-img">
                   <div class="project-item-icon-box">
@@ -825,7 +825,7 @@ Collaborated with cross-functional teams to ensure seamless implementation of de
             </li>
             
             <li class="project-item  active" data-filter-item data-category="web design">
-              <a href="Musicbeats.html">
+              <a href="./assets/Musicbeats.html">
 
                 <figure class="project-img">
                   <div class="project-item-icon-box">
@@ -843,7 +843,7 @@ Collaborated with cross-functional teams to ensure seamless implementation of de
             </li>
 
             <li class="project-item  active" data-filter-item data-category="web design">
-              <a href="Jaguar.html">
+              <a href="./assets/Jaguar.html">
 
                 <figure class="project-img">
                   <div class="project-item-icon-box">
@@ -861,7 +861,7 @@ Collaborated with cross-functional teams to ensure seamless implementation of de
             </li>
             
             <li class="project-item  active" data-filter-item data-category="web design">
-              <a href="Fittrack.html">
+              <a href="./assets/Fittrack.html">
 
                 <figure class="project-img">
                   <div class="project-item-icon-box">

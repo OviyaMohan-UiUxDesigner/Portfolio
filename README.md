@@ -5,7 +5,7 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Nanda Portfolio</title>
+  <title>Oviya Mohan Portfolio</title>
 
   <!--
     - favicon
@@ -15,7 +15,7 @@
   <!--
     - custom css link
   -->
-  <link rel="stylesheet" href="./assets/css/style.css">
+  <link rel="stylesheet" href=".assets/css/style.css">
   <!--
     - google font link
   -->
@@ -42,15 +42,15 @@
       <div class="sidebar-info">
 
         <figure class="avatar-box">
-          <img src="./assets/images/my-avatar.png" alt="Om Kharche" width="80">
+          <img src="./assets/images/my-avatar.jpg" alt="Om Kharche" width="80">
           <img src="./assets/images/waving-hand.gif" class="handwave" id="controlledGif">
         </figure>
 
 
         <div class="info-content">
-          <h1 class="name" title="Om Kharche">Kasetty Nanda Kumar</h1>
+          <h1 class="name" title="Om Kharche">Oviya Mohan</h1>
 
-          <p class="title">UI/UX Developer</p>
+          <p class="title">UI/UX Designer</p>
         </div>
 
         <button class="info_more-btn" data-sidebar-btn>
@@ -76,7 +76,7 @@
             <div class="contact-info">
               <p class="contact-title">Email</p>
 
-              <a href="mailto:omtestmail@gmail.com" class="contact-link">royalnandakumar@gmail.com</a>
+              <a href="mailto:oviyacse2001@gmail.com" class="contact-link">oviyacse2001@gmail.com</a>
             </div>
 
           </li>
@@ -90,7 +90,7 @@
             <div class="contact-info">
               <p class="contact-title">Phone</p>
 
-              <a href="tel:+918919133190" class="contact-link">+91 8919133190</a>
+              <a href="tel:+916369035690" class="contact-link">+91 63669035690</a>
             </div>
 
           </li>
@@ -118,7 +118,7 @@
             <div class="contact-info">
               <p class="contact-title">Location</p>
 
-              <address>Chennai, India</address>
+              <address>Namakkal, Tamilnadu.</address>
             </div>
 
           </li>
@@ -136,14 +136,14 @@
           </li> -->
 
           <li class="social-item">
-            <a href="https://www.linkedin.com/in/kasetty-nanda-kumar/" class="social-link">
+            <a href="https://www.linkedin.com/in/oviya-m-a078a11a3/" class="social-link">
               <ion-icon name="logo-linkedin"></ion-icon>
             </a>
           </li>
 
           <li class="social-item">
-            <a href="https://www.instagram.com/nanda_kumar_kasetty/" class="social-link">
-              <ion-icon name="logo-instagram"></ion-icon>
+            <a href="https://www.behance.net/oviya-uiux-designer" class="social-link">
+              <ion-icon name="logo-behance"></ion-icon>
             </a>
           </li>
 
@@ -573,7 +573,7 @@
 
 
 
-       <!--
+      <!--
         - #RESUME
       -->
 
@@ -738,7 +738,6 @@ Collaborated with cross-functional teams to ensure seamless implementation of de
 
 
 
-
       <!--
         - #PORTFOLIO
       -->
@@ -746,7 +745,7 @@ Collaborated with cross-functional teams to ensure seamless implementation of de
       <article class="portfolio" data-page="projects">
 
         <header>
-          <h2 class="h2 article-title">Portfolio</h2>
+          <h2 class="h2 article-title" id="travelease">Portfolio</h2>
         </header>
 
         <section class="projects">
@@ -758,16 +757,16 @@ Collaborated with cross-functional teams to ensure seamless implementation of de
             </li>
 
             <li class="filter-item">
-              <button data-filter-btn>Web design</button>
+              <button data-filter-btn>Website design</button>
             </li>
 
             <li class="filter-item">
-              <button data-filter-btn>Applications</button>
+              <button data-filter-btn>Mobile Applications</button>
             </li>
 
-            <li class="filter-item">
-              <button data-filter-btn>Web development</button>
-            </li>
+            <!-- <li class="filter-item">
+              <button data-filter-btn></button>
+            </li> -->
 
           </ul>
 
@@ -808,59 +807,77 @@ Collaborated with cross-functional teams to ensure seamless implementation of de
           <ul class="project-list">
 
             <li class="project-item  active" data-filter-item data-category="web design">
-              <a href="https://www.figma.com/proto/EcuHy1Ah5RUJima5xOn8ef/Real-Estate-Website-UI-Template?node-id=203-8&t=qFdzZv5yNb1yntps-1&scaling=min-zoom&content-scaling=fixed&page-id=45%3A2&starting-point-node-id=203%3A8">
+              <a href="Travelease.html">
 
                 <figure class="project-img">
                   <div class="project-item-icon-box">
                     <ion-icon name="eye-outline"></ion-icon>
                   </div>
 
-                  <img src="./assets/images/project-1.jpg" alt="realestate" loading="lazy">
+                  <img src="./assets/images/travelease-thumbnail.png" alt="realestate" loading="lazy">
                 </figure>
 
-                <h3 class="project-title">Real-Estate-Website-UI-Template</h3>
+                <h3 class="project-title">Travel Ease</h3>
 
-                <p class="project-category">Web design</p>
+                <p class="project-category">Website design(2024)</p>
 
               </a>
             </li>
-
-            <li class="project-item  active" data-filter-item data-category="web development">
-              <a href="https://nandakumarroy.github.io/dash-board/">
+            
+            <li class="project-item  active" data-filter-item data-category="web design">
+              <a href="Musicbeats.html">
 
                 <figure class="project-img">
                   <div class="project-item-icon-box">
                     <ion-icon name="eye-outline"></ion-icon>
                   </div>
 
-                  <img src="./assets/images/project-2.png" alt="orizon" loading="lazy">
+                  <img src="./assets/images/Musicbeats-thumbnail.png" alt="Music Intruments" loading="lazy">
                 </figure>
 
-                <h3 class="project-title">React dash-board</h3>
+                <h3 class="project-title">Music Beats</h3>
 
-                <p class="project-category">Web development</p>
+                <p class="project-category">Website design(2021)</p>
 
               </a>
             </li>
 
-            <li class="project-item  active" data-filter-item data-category="applications">
-              <a href="https://www.figma.com/proto/vHVD6rAKPEwTgL9WTbbV6t/E-com-Mobile-Application-Design?node-id=1-2069&t=BIgTja64cHYnh6BA-1&scaling=min-zoom&content-scaling=fixed&page-id=1%3A1364&starting-point-node-id=1%3A2263&show-proto-sidebar=1">
+            <li class="project-item  active" data-filter-item data-category="web design">
+              <a href="Jaguar.html">
 
                 <figure class="project-img">
                   <div class="project-item-icon-box">
                     <ion-icon name="eye-outline"></ion-icon>
                   </div>
 
-                  <img src="./assets/images/project-3.jpg" alt="fundo" loading="lazy">
+                  <img src="./assets/images/Jaguar-thumbnail.png" alt="Music Intruments" loading="lazy">
                 </figure>
 
-                <h3 class="project-title">E-Com Mobile App-UI-Template</h3>
+                <h3 class="project-title">Jaguar Page Redesign</h3>
 
-                <p class="project-category">Applications</p>
+                <p class="project-category">Website(2021)</p>
 
               </a>
             </li>
+            
+            <li class="project-item  active" data-filter-item data-category="web design">
+              <a href="Fittrack.html">
 
+                <figure class="project-img">
+                  <div class="project-item-icon-box">
+                    <ion-icon name="eye-outline"></ion-icon>
+                  </div>
+
+                  <img src="./assets/images/fittruck-thumbnail.png" alt="Music Intruments" loading="lazy">
+                </figure>
+
+                <h3 class="project-title">Fittrack</h3>
+
+                <p class="project-category">Mobile Application(2024) - Case Study</p>
+
+              </a>
+            </li>
+           
            
 
           </ul>
@@ -1122,7 +1139,7 @@ Collaborated with cross-functional teams to ensure seamless implementation of de
   <!--
     - custom js link
   -->
-  <script src="./assets/js/script.js"></script>
+  <script src=".assets/js/script.js"></script>
 
   <!--
     - ionicon link

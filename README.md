@@ -15,7 +15,7 @@
   <!--
     - custom css link
   -->
-  <link rel="stylesheet" href=".assets/css/style.css">
+  <link rel="stylesheet" href="./assets/css/style.css">
   <!--
     - google font link
   -->
@@ -1139,7 +1139,7 @@ Collaborated with cross-functional teams to ensure seamless implementation of de
   <!--
     - custom js link
   -->
-  <script src=".assets/js/script.js"></script>
+  <script src="./assets/js/script.js"></script>
 
   <!--
     - ionicon link

@@ -211,16 +211,16 @@
 
         <section class="about-text">
           <p>
-            With over 2.5 years of comprehensive experience in UI/UX Development, I have played a dual role as both a UI
-            and UX Developer, contributing to various web applications, websites, and portals. My focus has been on
-            creating user-friendly, functional, and visually appealing interfaces that deliver optimal digital
-            experiences. I am proficient in HTML, CSS, SCSS, Bootstrap, Material UI, JavaScript, and the React JS
-            framework, ensuring the technical implementation aligns with the latest standards. Additionally, </p>
+            I am a passionate and creative UI/UX Designer with 2.9 years of experience in designing intuitive, 
+            user-centric interfaces for web and mobile applications. With a proven ability to combine user research 
+            and design principles, I specialize in creating seamless experiences that enhance customer satisfaction 
+            and drive business results. My mission is to turn complex problems into elegant, engaging solutions.
+          </p>
 
-          <p>I have a strong background in the UX design process, including gathering and analyzing requirements,
-            developing
-            information architecture, crafting wireframes and prototypes, and executing visual design. My approach
-            ensures that every product I work on is not only functional but also intuitive and aesthetically engaging.
+          <p>
+            I am proficient in Figma, Adobe XD, InVision, VS Code, HTML, CSS, SCSS, Bootstrap, and Sass, 
+            ensuring that my designs are not only visually appealing but also technically sound and aligned with the
+            latest industry standards.         
           </p>
 
         </section>
@@ -236,6 +236,24 @@
 
           <ul class="service-list">
 
+            <!-- <li class="service-item">
+
+              <div class="service-icon-box">
+                <img src="./assets/images/dev-gif.gif" alt="design icon" width="80">
+              </div>
+
+              <div class="service-content-box">
+                <h4 class="h4 service-item-title">Freelance Projects & Innovation</h4>
+
+                <p class="service-item-text">
+                  Designing and delivering user-friendly interfaces for various freelance projects, 
+                  including a ride-booking app and a kids' routine management app, showcasing my ability to
+                  translate complex ideas into engaging, functional designs.
+                </p>
+              </div>
+
+            </li> -->
+
             <li class="service-item">
 
               <div class="service-icon-box">
@@ -243,10 +261,11 @@
               </div>
 
               <div class="service-content-box">
-                <h4 class="h4 service-item-title">User experience Design</h4>
+                <h4 class="h4 service-item-title">UI Design</h4>
 
                 <p class="service-item-text">
-                  Information architectures, Wireframes, Prototypes and Visual Designs
+                  Designing intuitive user interfaces through information architecture, user flows, wireframes, prototypes, and high-fidelity
+                  mockups while aligning with brand identity and user needs.
                 </p>
               </div>
 
@@ -255,30 +274,49 @@
             <li class="service-item">
 
               <div class="service-icon-box">
-                <img src="./assets/images/design-gif.gif" alt="Web development icon" width="80">
+                <img src="./assets/images/dev-gif.gif" alt="design icon" width="80">
               </div>
 
               <div class="service-content-box">
-                <h4 class="h4 service-item-title">Web development</h4>
+                <h4 class="h4 service-item-title">UI Development</h4>
 
                 <p class="service-item-text">
-                  High-quality development of web-sites and web-applications at the professional level.
+                  Translating the designs into fully
+                  functional, responsive interfaces using HTML, CSS, SCSS, Bootstrap, and Sass, ensuring clean, 
+                  maintainable code that meets web standards for optimal performance and usability.
                 </p>
               </div>
 
             </li>
-
             <!-- <li class="service-item">
+
+              <div class="service-icon-box">
+                <img src="./assets/images/design-gif.gif" alt="Web development icon" width="80">
+              </div>
+
+              <div class="service-content-box">
+                <h4 class="h4 service-item-title">Skill Enhancement & Collaboration</h4>
+
+                <p class="service-item-text">
+                  Continuously improving my technical and creative skills in Figma, Adobe XD, HTML, CSS, 
+                  and Bootstrap, while collaborating with clients and developers to align designs with business 
+                  objectives and user needs.
+                </p>
+              </div>
+
+            </li> -->
+<!-- 
+            <li class="service-item">
 
               <div class="service-icon-box">
                 <img src="./assets/images/icon-app.svg" alt="mobile app icon" width="40">
               </div>
 
               <div class="service-content-box">
-                <h4 class="h4 service-item-title">Mobile apps designs</h4>
+                <h4 class="h4 service-item-title">Client Collaboration</h4>
 
                 <p class="service-item-text">
-                  Professional development of applications for iOS and Android.
+                 Collaborating with clients and stakeholders to translate business goals into design strategies while ensuring high-quality deliverables.
                 </p>
               </div>
 
@@ -291,14 +329,14 @@
               </div>
 
               <div class="service-content-box">
-                <h4 class="h4 service-item-title">Photography</h4>
+                <h4 class="h4 service-item-title">Client Collaboration</h4>
 
                 <p class="service-item-text">
-                  I make high-quality photos of any category at a professional level.
+                  Collaborating with clients and stakeholders to translate business goals into design strategies while ensuring high-quality deliverables.
                 </p>
               </div>
 
-            </li> -->
+            </li>  -->
 
           </ul>
 
@@ -327,31 +365,7 @@
 
                 <div class="testimonials-text" data-testimonials-text>
                   <p>
-                    I prioritize client collaboration by fostering open and transparent communication throughout the
-                    project. By actively engaging in discussions and gathering feedback, I ensure the final product
-                    aligns perfectly with the client’s vision. This approach builds trust and delivers results that meet
-                    and exceed expectations
-                  </p>
-                </div>
-
-              </div>
-            </li>
-
-            <li class="testimonials-item">
-              <div class="content-card" data-testimonials-item>
-
-                <figure class="testimonials-avatar-box">
-                  <img src="./assets/images/clock-dynamic-color.png" alt="Jessica miller" width="40"
-                    data-testimonials-avatar>
-                </figure>
-
-                <h4 class="h4 testimonials-item-title" data-testimonials-title></h4>
-
-                <div class="testimonials-text" data-testimonials-text>
-                  <p>
-                    I’m very flexible with time zone communications, ensuring that I'm available to collaborate with
-                    clients regardless of their location. This flexibility allows for seamless coordination and timely
-                    responses, making the project process smooth and efficient.
+                    "Thanks for all the help , you came at right time to help me with few Projects. Hope everything works better for you at your new job." — Freelance Client
                   </p>
                 </div>
 
@@ -363,6 +377,27 @@
 
                 <figure class="testimonials-avatar-box">
                   <img src="./assets/images/computer-dynamic-color.png" alt="Emily evans" width="40"
+                  data-testimonials-avatar>
+                </figure>
+
+                <h4 class="h4 testimonials-item-title" data-testimonials-title></h4>
+
+                <div class="testimonials-text" data-testimonials-text>
+                  <p>
+                    "Her attention to detail and dedication to understanding the end user resulted in a product that exceeded expectations."
+                    — Freelance Client
+                  </p>
+                </div>
+
+              </div>
+            </li>
+
+            <li class="testimonials-item">
+              <div class="content-card" data-testimonials-item>
+
+                <figure class="testimonials-avatar-box">
+                
+                    <img src="./assets/images/clock-dynamic-color.png" alt="Jessica miller" width="40"
                     data-testimonials-avatar>
                 </figure>
 
@@ -370,14 +405,14 @@
 
                 <div class="testimonials-text" data-testimonials-text>
                   <p>
-                    My tech stack includes HTML, CSS, SCSS, Bootstrap, Material UI, JavaScript, React JS, Figma, and Adobe XD.
+                    "Oviya's ability to manage tight deadlines while maintaining high-quality work is unmatched. 
+                    Thank you so much for Part of our project."
+                    — Freelance Client
                   </p>
                 </div>
 
               </div>
             </li>
-
-
 
           </ul>
 
@@ -430,44 +465,103 @@
         <!--
           - My approach
         -->
-
         <section class="clients">
 
-          <h3 class="h3 clients-title">My approach</h3>
+          <h3 class="h3">My approach</h3>
 
           <ul class="clients-list has-scrollbar">
 
-            <li class="clients-item">
-              <a href="#">
-                <img src="./assets/images/phase1.png" alt="phase1">
-              </a>
+            <li class="service-item clients-item">
+
+              <div class="service-content-box">
+                <span class="subheading">Phase 1</span>
+                <h4 class="h4 service-item-title">Research & Discovery:</h4>
+                <p class="service-item-text">
+                  Conduct user interviews, competitor analysis, and market research to identify pain points and opportunities.
+                </p>
+              </div>
+
             </li>
 
-            <li class="clients-item">
-              <a href="#">
-                <img src="./assets/images/phase2.png" alt="phase2">
-              </a>
+            <li class="service-item clients-item">
+
+              <div class="service-content-box">
+                <span class="subheading">Phase 2</span>
+                <h4 class="h4 service-item-title">Ideation & Strategy</h4>
+                  <p class="service-item-text">
+                    Create user personas, define workflows, and sketch wireframes to establish a clear design direction.
+                  </p>
+              </div>
+
             </li>
 
-            <li class="clients-item">
-              <a href="#">
-                <img src="./assets/images/phase3.png" alt="phase3">
-              </a>
+            <li class="service-item clients-item">
+
+              <div class="service-content-box">
+                <span class="subheading">Phase 3</span>
+                <h4 class="h4 service-item-title">Design & Prototyping</h4>
+                <p class="service-item-text">
+                  Develop high-fidelity designs and interactive prototypes using tools like Figma, Sketch, and Adobe XD.
+                </p>
+              </div>
+
             </li>
 
-            <li class="clients-item">
-              <a href="#">
-                <img src="./assets/images/phase4.png" alt="phase4">
-              </a>
+            <li class="service-item clients-item">
+
+              <div class="service-content-box">
+                <span class="subheading">Phase 4</span>
+                <h4 class="h4 service-item-title">Testing & Iteration</h4>
+                <p class="service-item-text">
+                  Conduct usability tests, gather feedback, and refine designs to ensure an optimal user experience.
+                </p>
+              </div>
+
             </li>
 
-            <li class="clients-item">
-              <a href="#">
-                <img src="./assets/images/phase5.png" alt="phase5">
-              </a>
+            <li class="service-item clients-item">
+
+              <div class="service-content-box">
+                <span class="subheading">Phase 5</span>
+                <h4 class="h4 service-item-title">Delivery & Handoff</h4>
+                  <p class="service-item-text">
+                    Collaborate with developers for smooth implementation, providing assets and design specifications.
+                  </p>
+              </div>
+
+            </li>
+<!-- 
+            <li class="service-item">
+
+              <div class="service-icon-box">
+                <img src="./assets/images/icon-app.svg" alt="mobile app icon" width="40">
+              </div>
+
+              <div class="service-content-box">
+                <h4 class="h4 service-item-title">Client Collaboration</h4>
+
+                <p class="service-item-text">
+                 Collaborating with clients and stakeholders to translate business goals into design strategies while ensuring high-quality deliverables.
+                </p>
+              </div>
+
             </li>
 
-            
+            <li class="service-item">
+
+              <div class="service-icon-box">
+                <img src="./assets/images/icon-photo.svg" alt="camera icon" width="40">
+              </div>
+
+              <div class="service-content-box">
+                <h4 class="h4 service-item-title">Client Collaboration</h4>
+
+                <p class="service-item-text">
+                  Collaborating with clients and stakeholders to translate business goals into design strategies while ensuring high-quality deliverables.
+                </p>
+              </div>
+
+            </li>  -->
 
           </ul>
 
@@ -479,7 +573,7 @@
 
 
 
-      <!--
+       <!--
         - #RESUME
       -->
 
@@ -488,59 +582,7 @@
         <header>
           <h2 class="h2 article-title">Resume</h2>
         </header>
-
-        <section class="timeline">
-
-          <div class="title-wrapper">
-            <div class="icon-box">
-              <ion-icon name="book-outline"></ion-icon>
-            </div>
-
-            <h3 class="h3">Education</h3>
-          </div>
-
-          <ol class="timeline-list">
-
-            <li class="timeline-item">
-
-              <h4 class="h4 timeline-item-title">Saveetha School of Engineering </h4>
-
-              <span>2017 — 2021</span>
-
-              <p class="timeline-text">
-                Completed BE Mechanical Engineering in SSE Chennai
-              </p>
-
-            </li>
-
-            <li class="timeline-item">
-
-              <h4 class="h4 timeline-item-title">Class 12th</h4>
-
-              <span>2015 — 2017</span>
-
-              <p class="timeline-text">
-                Completed 12th from Narayana Jr. Collage - Board of Intermediate Education Andhra Pradesh, Kadapa 
-              </p>
-
-            </li>
-
-            <li class="timeline-item">
-
-              <h4 class="h4 timeline-item-title">Class 10th</h4>
-
-              <span>2015</span>
-
-              <p class="timeline-text">
-                Completed 12th from D.A.V High School - Board of Secondary Education Andhra Pradesh, Kadapa 
-              </p>
-
-            </li>
-
-          </ol>
-
-        </section>
-
+        
         <section class="timeline">
 
           <div class="title-wrapper">
@@ -557,10 +599,14 @@
 
               <h4 class="h4 timeline-item-title">UI/UX Engineer</h4>
 
-              <span>2021 — 2024</span>
+              <span>2022 — 2024</span>
 
               <p class="timeline-text">
-                With over 2.5 years of comprehensive experience in UI/UX Development from Avasoft Chennai
+                Led the design and development of user interfaces for web and mobile applications, improving usability and user engagement.
+                <br>
+Delivered innovative solutions for complex design problems by conducting user research and usability testing.
+<br>
+Collaborated with cross-functional teams to ensure seamless implementation of designs, resulting in a 20% increase in task completion rates
               </p>
 
             </li>
@@ -570,6 +616,59 @@
           </ol>
 
         </section>
+
+        <section class="timeline">
+
+          <div class="title-wrapper">
+            <div class="icon-box">
+              <ion-icon name="book-outline"></ion-icon>
+            </div>
+
+            <h3 class="h3">Education</h3>
+          </div>
+
+          <ol class="timeline-list">
+
+            <li class="timeline-item">
+
+              <h4 class="h4 timeline-item-title">Sri Lakshmi Ammal Engineering Collage - Chennai</h4>
+
+              <span>2017 — 2021</span>
+
+              <p class="timeline-text">
+               BE - Computer Science & Engineering
+              </p>
+
+            </li>
+
+            <li class="timeline-item">
+
+              <h4 class="h4 timeline-item-title">Govt Higher Secondary School - Namakkal</h4>
+
+              <span>2016 — 2017</span>
+
+              <p class="timeline-text">
+               12th Standard
+              </p>
+
+            </li>
+
+            <li class="timeline-item">
+
+              <h4 class="h4 timeline-item-title">Govt Higher Secondary School - Namakkal</h4>
+
+              <span>2014 - 2015</span>
+
+              <p class="timeline-text">
+                10th Standard
+              </p>
+
+            </li>
+
+          </ol>
+
+        </section>
+
 
         <!-- <section class="skill">
 
@@ -634,6 +733,7 @@
         </section> -->
 
       </article>
+
 
 
 

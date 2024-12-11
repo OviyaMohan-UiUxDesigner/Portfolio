@@ -834,9 +834,9 @@ Collaborated with cross-functional teams to ensure seamless implementation of de
                   <img src="./assets/images/FitTrack-Thumbnail.png" alt="realestate" loading="lazy">
                 </figure>
 
-                <h3 class="project-title">Travel Ease</h3>
+                <h3 class="project-title">Rider</h3>
 
-                <p class="project-category">Website design(2024)</p>
+                <p class="project-category">Mobile Application(2023)</p>
 
               </a>
             </li>

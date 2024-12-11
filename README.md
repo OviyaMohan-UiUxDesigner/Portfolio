@@ -774,7 +774,7 @@ Collaborated with cross-functional teams to ensure seamless implementation of de
 
           </ul>
 
-          <div class="filter-select-box">
+        <--  <div class="filter-select-box">
 
             <button class="filter-select" data-select>
 
@@ -804,7 +804,7 @@ Collaborated with cross-functional teams to ensure seamless implementation of de
                 <button data-select-item>Web development</button>
               </li>
 
-            </ul>
+            </ul>-->
 
           </div>
 

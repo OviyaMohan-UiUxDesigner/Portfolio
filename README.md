@@ -823,6 +823,40 @@ Collaborated with cross-functional teams to ensure seamless implementation of de
 
               </a>
             </li>
+             <li class="project-item  active" data-filter-item data-category="web design">
+              <a href="./assets/readytoride.html">
+
+                <figure class="project-img">
+                  <div class="project-item-icon-box">
+                    <ion-icon name="eye-outline"></ion-icon>
+                  </div>
+
+                  <img src="./assets/images/FitTrack-Thumbnail.png" alt="realestate" loading="lazy">
+                </figure>
+
+                <h3 class="project-title">Travel Ease</h3>
+
+                <p class="project-category">Website design(2024)</p>
+
+              </a>
+            </li>
+                <li class="project-item  active" data-filter-item data-category="web design">
+              <a href=".assets/Fittrack.html">
+
+                <figure class="project-img">
+                  <div class="project-item-icon-box">
+                    <ion-icon name="eye-outline"></ion-icon>
+                  </div>
+
+                  <img src="./assets/images/fittruck-thumbnail.png" alt="Music Intruments" loading="lazy">
+                </figure>
+
+                <h3 class="project-title">Fittrack</h3>
+
+                <p class="project-category">Mobile Application(2024) - Case Study</p>
+
+              </a>
+            </li>
             
             <li class="project-item  active" data-filter-item data-category="web design">
               <a href="./assets/Musicbeats.html">
@@ -860,23 +894,7 @@ Collaborated with cross-functional teams to ensure seamless implementation of de
               </a>
             </li>
             
-            <li class="project-item  active" data-filter-item data-category="web design">
-              <a href=".assets/Fittrack.html">
-
-                <figure class="project-img">
-                  <div class="project-item-icon-box">
-                    <ion-icon name="eye-outline"></ion-icon>
-                  </div>
-
-                  <img src="./assets/images/fittruck-thumbnail.png" alt="Music Intruments" loading="lazy">
-                </figure>
-
-                <h3 class="project-title">Fittrack</h3>
-
-                <p class="project-category">Mobile Application(2024) - Case Study</p>
-
-              </a>
-            </li>
+        
            
            
 

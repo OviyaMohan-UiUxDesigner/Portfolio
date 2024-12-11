@@ -862,7 +862,7 @@ Collaborated with cross-functional teams to ensure seamless implementation of de
 
               </a>
           
-            
+            </li>
             <li class="project-item  active" data-filter-item data-category="web design">
               <a href="./assets/Musicbeats.html">
 

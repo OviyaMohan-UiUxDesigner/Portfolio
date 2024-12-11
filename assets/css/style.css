@@ -1746,8 +1746,8 @@
   
     /* clients */
   
-    .clients-item { min-width: calc(40% - 38px); }
-  
+    .clients-item { min-width: calc(64% - 38px); }
+  .clients-item { max-width: calc(40% - 38px); }
   
   
     /**

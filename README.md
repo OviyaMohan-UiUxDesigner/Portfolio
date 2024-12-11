@@ -369,7 +369,7 @@
 
                 <div class="testimonials-text" data-testimonials-text>
                   <p>
-                    "Thanks for all the help , you came at right time to help me with few Projects. Hope everything works better for you at your new job." — Freelance Client
+                    "Thanks for all the help , you came at right time to help me with few Projects. Hope everything works better for you at your new job." — Client
                   </p>
                 </div>
 
@@ -389,7 +389,7 @@
                 <div class="testimonials-text" data-testimonials-text>
                   <p>
                     "Her attention to detail and dedication to understanding the end user resulted in a product that exceeded expectations."
-                    — Freelance Client
+                    — Client
                   </p>
                 </div>
 
@@ -411,7 +411,7 @@
                   <p>
                     "Oviya's ability to manage tight deadlines while maintaining high-quality work is unmatched. 
                     Thank you so much for Part of our project."
-                    — Freelance Client
+                    — Client
                   </p>
                 </div>
 
@@ -756,17 +756,17 @@ Collaborated with cross-functional teams to ensure seamless implementation of de
 
           <ul class="filter-list">
 
-            <li class="filter-item">
+            <!--<li class="filter-item">
               <button class="active" data-filter-btn>All</button>
-            </li>
+            </li>-->
 
-            <li class="filter-item">
+           <!-- <li class="filter-item">
               <button data-filter-btn>Website design</button>
-            </li>
+            </li>-->
 
-            <li class="filter-item">
+           <!-- <li class="filter-item">
               <button data-filter-btn>Mobile Applications</button>
-            </li>
+            </li> -->
 
             <!-- <li class="filter-item">
               <button data-filter-btn></button>

@@ -817,12 +817,12 @@ Collaborated with cross-functional teams to ensure seamless implementation of de
                     <ion-icon name="eye-outline"></ion-icon>
                   </div>
 
-                  <img src="./assets/images/Rider Thumbnail.png" alt="realestate" loading="lazy">
+                  <img src="./assets/images/Rider Thumnail 1.png" alt="realestate" loading="lazy">
                 </figure>
 
                 <h3 class="project-title">Rider</h3>
 
-                <p class="project-category">Mobile Application(2024)</p>
+                <p class="project-category">Mobile Application(2024) - Case Study</p>
 
               </a>
           

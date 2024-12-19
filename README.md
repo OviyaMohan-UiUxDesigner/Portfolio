@@ -809,7 +809,24 @@ Collaborated with cross-functional teams to ensure seamless implementation of de
           </div>
 
           <ul class="project-list">
+              <li class="project-item  active" data-filter-item data-category="web design">
+               <a href="./assets/Rider.html">
 
+                <figure class="project-img">
+                  <div class="project-item-icon-box">
+                    <ion-icon name="eye-outline"></ion-icon>
+                  </div>
+
+                  <img src="./assets/images/Rider Thumbnail.png" alt="realestate" loading="lazy">
+                </figure>
+
+                <h3 class="project-title">Rider</h3>
+
+                <p class="project-category">Mobile Application(2024)</p>
+
+              </a>
+          
+            </li>
             <li class="project-item  active" data-filter-item data-category="web design">
               <a href="./assets/Travelease.html">
 
@@ -845,24 +862,7 @@ Collaborated with cross-functional teams to ensure seamless implementation of de
               </a>
             </li>
                
-             <li class="project-item  active" data-filter-item data-category="web design">
-              <a href="./assets/readytoride.html">
-
-                <figure class="project-img">
-                  <div class="project-item-icon-box">
-                    <ion-icon name="eye-outline"></ion-icon>
-                  </div>
-
-                  <img src="./assets/images/FitTrack-Thumbnail.png" alt="realestate" loading="lazy">
-                </figure>
-
-                <h3 class="project-title">Rider</h3>
-
-                <p class="project-category">Mobile Application(2023)</p>
-
-              </a>
-          
-            </li>
+            
             <li class="project-item  active" data-filter-item data-category="web design">
               <a href="./assets/Musicbeats.html">
 

@@ -911,7 +911,7 @@
             </li>
 
             <li class="project-item  active" data-filter-item data-category="web design">
-              <a href=".assets/Jaguar.html">
+              <a href="./assets/Jaguar.html">
 
                 <figure class="project-img">
                   <div class="project-item-icon-box">

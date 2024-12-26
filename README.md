@@ -875,7 +875,7 @@
             </li>
                
               <li class="project-item  active" data-filter-item data-category="web design">
-              <a href="./assets/Banking App.html">
+              <a href="./assets/Bankingapp.html">
 
                 <figure class="project-img">
                   <div class="project-item-icon-box">
@@ -887,7 +887,7 @@
 
                 <h3 class="project-title">Travel Ease</h3>
 
-                <p class="project-category">Website design(2024)</p>
+                <p class="project-category">Mobile Application(2023)</p>
 
               </a>
             </li>

@@ -882,7 +882,7 @@
                     <ion-icon name="eye-outline"></ion-icon>
                   </div>
 
-                  <img src="./assets/images/banking app thumbnail.png" alt="realestate" loading="lazy">
+                  <img src="./assets/images/bankingapp-thumbnail.png" alt="Banking App" loading="lazy">
                 </figure>
 
                 <h3 class="project-title">Travel Ease</h3>

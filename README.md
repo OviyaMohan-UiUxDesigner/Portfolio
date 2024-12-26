@@ -601,20 +601,30 @@
 
             <li class="timeline-item">
 
-              <h4 class="h4 timeline-item-title">UI/UX Engineer</h4>
+              <h4 class="h4 timeline-item-title">UX Designer </h4>
 
-              <span>2022 — 2024</span>
+              <span>AVASOFT | Jan 2022 - Jul 2024</span>
 
               <p class="timeline-text">
                 Led the design and development of user interfaces for web and mobile applications, improving usability and user engagement.
                 <br>
-Delivered innovative solutions for complex design problems by conducting user research and usability testing.
-<br>
-Collaborated with cross-functional teams to ensure seamless implementation of designs, resulting in a 20% increase in task completion rates
+           Delivered innovative solutions for complex design problems by conducting user research and usability testing.
+             <br>
+             Collaborated with cross-functional teams to ensure seamless implementation of designs, resulting in a 20% increase in task completion rates
               </p>
 
             </li>
+      <li class="timeline-item">
 
+              <h4 class="h4 timeline-item-title">UI/UX Designer</h4>
+
+              <span>Thaazhai Enterprises | Dec 2020 - Nov 2021</span>
+
+              <p class="timeline-text">
+               Designed and developed user-centered, responsive website interfaces, enhancing user experience and engagement. Collaborated with cross-functional teams to deliver visually compelling and functional web designs.
+               </p>
+
+            </li>
            
 
           </ol>

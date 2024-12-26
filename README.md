@@ -885,7 +885,7 @@
                   <img src="./assets/images/bankingapp-thumbnail.png" alt="Banking App" loading="lazy">
                 </figure>
 
-                <h3 class="project-title">Travel Ease</h3>
+                <h3 class="project-title">Banking App</h3>
 
                 <p class="project-category">Mobile Application(2023)</p>
 

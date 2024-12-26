@@ -837,6 +837,7 @@
               </a>
           
             </li>
+            
             <li class="project-item  active" data-filter-item data-category="web design">
               <a href="./assets/Travelease.html">
 
@@ -854,6 +855,7 @@
 
               </a>
             </li>
+            
               <li class="project-item  active" data-filter-item data-category="web design">
               <a href="./assets/Fittrack.html">
 
@@ -872,6 +874,23 @@
               </a>
             </li>
                
+              <li class="project-item  active" data-filter-item data-category="web design">
+              <a href="./assets/Banking App.html">
+
+                <figure class="project-img">
+                  <div class="project-item-icon-box">
+                    <ion-icon name="eye-outline"></ion-icon>
+                  </div>
+
+                  <img src="./assets/images/banking app thumbnail.png" alt="realestate" loading="lazy">
+                </figure>
+
+                <h3 class="project-title">Travel Ease</h3>
+
+                <p class="project-category">Website design(2024)</p>
+
+              </a>
+            </li>
             
             <li class="project-item  active" data-filter-item data-category="web design">
               <a href="./assets/Musicbeats.html">

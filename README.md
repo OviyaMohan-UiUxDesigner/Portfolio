@@ -850,7 +850,7 @@
 
                 <h3 class="project-title">Social Media Management</h3>
 
-                <p class="project-category">Web Application(2025) - Dashboard</p>
+                <p class="project-category">Web Application(2024) - Dashboard</p>
 
               </a>
           

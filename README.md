@@ -837,6 +837,24 @@
               </a>
           
             </li>
+             <li class="project-item  active" data-filter-item data-category="web design">
+               <a href="./assets/socialmediapost.html">
+
+                <figure class="project-img">
+                  <div class="project-item-icon-box">
+                    <ion-icon name="eye-outline"></ion-icon>
+                  </div>
+
+                  <img src="./assets/images/Social-Media-management-Thumbnail.png" alt="realestate" loading="socialmedia">
+                </figure>
+
+                <h3 class="project-title">Social Media Management</h3>
+
+                <p class="project-category">Web Application(2025) - Dashboard</p>
+
+              </a>
+          
+            </li>
             
             <li class="project-item  active" data-filter-item data-category="web design">
               <a href="./assets/Travelease.html">

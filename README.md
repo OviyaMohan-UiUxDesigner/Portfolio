@@ -215,7 +215,7 @@
 
         <section class="about-text">
           <p>
-            I am a passionate and creative UI/UX Designer with 2.9 years of experience in designing intuitive, 
+            I am a passionate and creative UI/UX Designer with 5 years of experience in designing intuitive, 
             user-centric interfaces for web and mobile applications. With a proven ability to combine user research 
             and design principles, I specialize in creating seamless experiences that enhance customer satisfaction 
             and drive business results. My mission is to turn complex problems into elegant, engaging solutions.
@@ -603,7 +603,7 @@
 
               <h4 class="h4 timeline-item-title">UX Designer </h4>
 
-              <span>AVASOFT | Jan 2022 - Jul 2024</span>
+              <span>AVASOFT | Jan 2022 - Feb 2025</span>
 
               <p class="timeline-text">
                 Led the design and development of user interfaces for web and mobile applications, improving usability and user engagement.
@@ -618,7 +618,7 @@
 
               <h4 class="h4 timeline-item-title">UI/UX Designer</h4>
 
-              <span>Thaazhai Enterprises | Dec 2020 - Nov 2021</span>
+              <span>Thaazhai Enterprises | Oct 2020 - Dec 2021</span>
 
               <p class="timeline-text">
                Designed and developed user-centered, responsive website interfaces, enhancing user experience and engagement. Collaborated with cross-functional teams to deliver visually compelling and functional web designs.
